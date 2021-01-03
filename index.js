@@ -14,7 +14,7 @@ const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
 const BotName = 'Tsukasa'; 
-const instagram = 'https://instagram.com/tegarilyasa'; 
+const instagram = 'https://instagram.com/iksanzz_nation'; 
 const telegram = 'https://t.me/Tegarilyasa'; 
 const kapanbotaktif = 'SESUAI KEMAUAN MASTER IKSHAN'; 
 const youtube = 'https://www.youtube.com/c/reuz_id';
